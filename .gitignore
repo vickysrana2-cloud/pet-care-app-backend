@@ -32,7 +32,10 @@ build/
 ### VS Code ###
 .vscode/
 
-# Environment variables (Railway)
+# Environment variables 
+
+*.class
+application-local.properties
 .env
 
 # Logs
